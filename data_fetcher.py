@@ -6,7 +6,7 @@ import json
 import os
 import time  
 
-API_KEY = "d5977def6093a5d3df0671e94e2d9860"
+API_KEY = "your_api_key_here"
 
 def get_city_coordinates(city_name, country_code=None):
     """Get latitude and longitude for a city"""
